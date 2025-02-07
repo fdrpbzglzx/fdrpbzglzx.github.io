@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timelines on Tella</title><link>https://example.com/timeline/</link><description>Recent content in Timelines on Tella</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/timeline/index.xml" rel="self" type="application/rss+xml"/><item><title>October 2023</title><link>https://example.com/timeline/timeline/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/timeline/timeline/</guid><description>&lt;h2 id="2023">2023&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>January&lt;/strong>: Started learning Hugo.&lt;/li>
+&lt;li>&lt;strong>February&lt;/strong>: Built my first Hugo site.&lt;/li>
+&lt;li>&lt;strong>March&lt;/strong>: Added a new timeline section.&lt;/li>
+&lt;/ul>
+&lt;h2 id="2022">2022&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>December&lt;/strong>: Discovered Hugo.&lt;/li>
+&lt;/ul></description></item><item><title>February 2023</title><link>https://example.com/timeline/2023-02/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://example.com/timeline/2023-02/</guid><description>&lt;ul>
+&lt;li>Added a new timeline section.&lt;/li>
+&lt;/ul></description></item><item><title>January 2023</title><link>https://example.com/timeline/2023-01/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://example.com/timeline/2023-01/</guid><description>&lt;ul>
+&lt;li>Started learning Hugo.&lt;/li>
+&lt;li>Built my first Hugo site.&lt;/li>
+&lt;/ul></description></item></channel></rss>
